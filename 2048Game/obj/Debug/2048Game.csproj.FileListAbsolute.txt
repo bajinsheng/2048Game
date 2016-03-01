@@ -1,0 +1,22 @@
+E:\Project\csharp\2048Game\2048Game\bin\Debug\2048Game.exe
+E:\Project\csharp\2048Game\2048Game\bin\Debug\2048Game.pdb
+E:\Project\csharp\2048Game\2048Game\obj\Debug\_2048Game.MainForm.resources
+E:\Project\csharp\2048Game\2048Game\obj\Debug\_2048Game.NumberControl.resources
+E:\Project\csharp\2048Game\2048Game\obj\Debug\_2048Game.OverForm.resources
+E:\Project\csharp\2048Game\2048Game\obj\Debug\_2048Game.Properties.Resources.resources
+E:\Project\csharp\2048Game\2048Game\obj\Debug\_2048Game.Resource.resources
+E:\Project\csharp\2048Game\2048Game\obj\Debug\2048Game.csproj.GenerateResource.Cache
+E:\Project\csharp\2048Game\2048Game\obj\Debug\2048Game.exe
+E:\Project\csharp\2048Game\2048Game\obj\Debug\2048Game.pdb
+E:\Project\csharp\2048Game\2048Game\obj\Debug\2048Game.csprojResolveAssemblyReference.cache
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\2048Game\2048Game\obj\Debug\2048Game.exe
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\2048Game\2048Game\obj\Debug\2048Game.pdb
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\2048Game\2048Game\bin\Debug\2048Game.exe
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\2048Game\2048Game\bin\Debug\2048Game.pdb
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\2048Game\2048Game\obj\Debug\2048Game.csprojResolveAssemblyReference.cache
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\2048Game\2048Game\obj\Debug\_2048Game.MainForm.resources
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\2048Game\2048Game\obj\Debug\_2048Game.NumberControl.resources
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\2048Game\2048Game\obj\Debug\_2048Game.OverForm.resources
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\2048Game\2048Game\obj\Debug\_2048Game.Properties.Resources.resources
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\2048Game\2048Game\obj\Debug\_2048Game.Resource.resources
+F:\bajinsheng\Documents\Visual Studio 2013\Projects\2048Game\2048Game\obj\Debug\2048Game.csproj.GenerateResource.Cache
